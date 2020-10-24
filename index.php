@@ -1,0 +1,313 @@
+<html>
+<head>
+<link rel="stylesheet" href="design.css" type="text/css"/>
+
+</head>
+<body>
+
+
+
+
+  
+  
+  
+  
+  
+  <header>
+<nav id="mainNav">
+
+<div class="displaySize">
+<div id="logodiv">
+<img width="150px" height="65px" src="download (2).png"/>
+ </div>
+
+
+
+<menu  id="menuContiner">
+
+
+
+<ul id="primaray_menu">
+
+<li> <a href="#">HOME</a></li>
+<li> <a href="#">SERVICES</a>
+
+<ul id="submanu">
+
+<li> <a href="#">Web design</a></li>
+<li> <a href="#">Web development</a></li>
+<li> <a href="#">Graphics design</a></li>
+<li> <a href="#">Logo design</a></li>
+<li> <a href="#">Learaning php</a></li>
+
+</ul>
+</li>
+<li> <a href="#">CONTENT</a>
+
+<ul id="submanu">
+
+<li> <a href="#">Web design</a></li>
+<li> <a href="#">Web development</a></li>
+<li> <a href="#">Graphics design</a></li>
+<li> <a href="#">Logo design</a></li>
+<li> <a href="#">Learaning php</a></li>
+
+</ul>
+
+</li>
+<li> <a href="#">SERVICES</a></li>
+<li> <a href="#">CONTACT</a></li>
+
+
+</ul>
+</menu>
+</div>
+</nav>
+</header>
+
+  
+  
+  
+  
+  
+  
+  
+
+
+<section id="serviceSection">
+
+<div id="section_title">
+
+<h1 id="section_title_text">OUR <span>SERVICES</span></h1>
+
+</div>
+
+<div id="allBlocks">
+
+<div id="service_block">
+
+<div id="leftIcon">
+<i class="icon">$</i>
+</div>
+
+<div id="rightContent">
+<h2>Web design</h2>
+<p> Qualified web designs and attractive effects which catch visitor 
+Qualified web designs and attractive effects which catch visitor</p>
+</div>
+
+</div>
+
+<div id="service_block">
+
+<div id="leftIcon">
+<i class="icon">$</i>
+</div>
+
+<div id="rightContent">
+<h2>Web design</h2>
+<p> Qualified web designs and attractive effects which catch visitor 
+Qualified web designs and attractive effects which catch visitor</p>
+</div>
+
+</div>
+
+<div id="service_block">
+
+<div id="leftIcon">
+<i class="icon">$</i>
+</div>
+
+<div id="rightContent">
+<h2>Web design</h2>
+<p> Qualified web designs and attractive effects which catch visitor
+Qualified web designs and attractive effects which catch visitor </p>
+</div>
+
+</div>
+
+<div id="service_block">
+
+<div id="leftIcon">
+<i class="icon">$</i>
+</div>
+
+<div id="rightContent">
+<h2>Web design</h2>
+<p> Qualified web designs and attractive effects which catch visitor
+Qualified web designs and attractive effects which catch visitor </p>
+</div>
+
+</div>
+<div id="service_block">
+
+<div id="leftIcon">
+<i class="icon">$</i>
+</div>
+
+<div id="rightContent">
+<h2>Web design</h2>
+<p> Qualified web designs and attractive effects which catch visitor
+Qualified web designs and attractive effects which catch visitor </p>
+</div>
+
+</div>
+<div id="service_block">
+
+<div id="leftIcon">
+<i class="icon">$</i>
+</div>
+
+<div id="rightContent">
+<h2>Web design</h2>
+<p> Qualified web designs and attractive effects which catch visitor
+Qualified web designs and attractive effects which catch visitor </p>
+</div>
+
+</div>
+
+
+</div>
+
+</section>
+
+
+
+
+
+
+<section id="about_us">
+<div id="allBlocks">
+<div id="section_title">
+<h1 id="section_title_text">ABOUT  <span>US</span></h1>
+</div>
+<div id="about_contents_all">
+<div id="about_image">
+<img src="about.jpg" />
+</div>
+<div id="aboutRight">
+<h4> Freelancer Ruman</h4>
+<p>I am a web developer and I want to become a good web developer.
+ For that why i do this I am a web developer and I want to become a good web developer.
+ For that why i do thisI am a web developer and I want to become a good web developer.
+ For that why i do this I am a web developer and I want to become
+ a good web developer. For that why i do this.</p>
+<p> I am a web developer and I want to become a good web developer.
+ For that why i do this.</p>
+
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+
+
+<div id="allBlocks">
+
+
+
+<footer>
+
+<div class="displaySize">
+<div class="footerBlock">
+<h2> About Us </h2>
+<p>I am a web developer and I want to become a good web developer.
+ For that why i do this I am a web developer and I want to becom</p>
+</div>
+
+
+<div class="footerBlock">
+<h2> Additional link </h2>
+<p>I am a web developer and I want to become a good web developer.
+ For that why i do this I am a web developer and I want to becom</p>
+
+
+</div>
+
+
+<div class="footerBlock">
+<h2> Custom Menu </h2>
+<p>I am a web developer and I want to become a good web developer.
+ For that why i do this I am a web developer and I want to becom</p>
+</div>
+
+<div class="footerBlock">
+<h2> SUBCRIBE </h2>
+
+
+<div class="subscribeform">
+<form  method="GET" action="welcome.php">
+<input name="username" type="text" placeholder="Your email"/>
+<br/>
+
+<input name="usercomment" type="text" placeholder="Your name"/>
+<br/>
+<a href=""><input type="submit" value="SUBCRIBE"/></a>
+
+</form>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+</footer>
+
+
+
+</div>
+
+
+<div id="lastfooter">
+<p> COPY@copyright2020</p>
+
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+</body>
+</html>

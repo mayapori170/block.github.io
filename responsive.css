@@ -1,0 +1,23 @@
+*{
+	margin:0; padding:0;
+}
+@media (max-width:768px){
+	
+
+div#service_block {
+    width: 100%;
+    text-align: center;
+    padding: 80px;
+    margin: 10px;
+    text-size-adjust: 90px;
+}	
+	
+}
+
+
+@media (max-width:768px){
+	
+.footerBlock {
+    width: 100%;
+}
+}
